@@ -1,6 +1,6 @@
 ---
-title: "Healthcare Application based on Image recognition"
-date: 2019-05-01
+title: "Production scheduling application for supply chain"
+date: 2020-05-01
 tags: [AI, deep learning, go to market, app, cloud]
 header:
   image: ""
