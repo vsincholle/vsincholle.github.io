@@ -31,7 +31,8 @@ The model was trained on several thousands of images which were labelled by expe
 Our solution is better than human prediction. 
 It was launched as a mobile app, called myRumidiag, on the Apple store and the Google playstore
 Our product won a French-Tech award: the first prize on Agreen proto, the 21th November 2018. 
-It is use by several farmers daily on many countries in EMEA and Latin America. 
-Very proud to help worlwide farmers to fight against this desease :)
 
 ![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/prize.png)
+
+This application is used by several farmers daily on many countries in EMEA and Latin America. 
+Very proud to help worlwide farmers to fight against this desease :)
