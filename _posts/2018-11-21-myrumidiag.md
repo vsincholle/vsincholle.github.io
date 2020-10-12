@@ -15,7 +15,7 @@ In this project, we designed and developed a mobile application to help dairy co
 This desease has a huge impact on milking performance for cows and so a huge economic impact for the farmers.
 Old-fashion way is to analyse each dung manually  but it is very long and not so pleasant, so many farmers don't go for it.
 
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/logo.png)
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/app.png)
 
 ### my Role
 In order to do that, we built a product team to invent a new solution. 
@@ -25,12 +25,13 @@ Images will be send to a back-end on the cloud containing both an API and an AI 
 I designed the cloud architecture and developed the deep learning algorithm for the image recognition part.
 The model was trained on several thousands of images which were labelled by experts. 
 
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/app.png)
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/logo.png)
 
-### Goal of the project
+### A product daily used by farmers over the world
 Our solution is better than human prediction. 
 It was launched as a mobile app, called myRumidiag, on the Apple store and the Google playstore
 Our product won a French-Tech award: the first prize on Agreen proto, the 21th November 2018. 
-It is use by several farmers daily. Very proud to help farmers to fight against this desease :)
+It is use by several farmers daily on many countries in EMEA and Latin America. 
+Very proud to help worlwide farmers to fight against this desease :)
 
 ![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/prize.png)
