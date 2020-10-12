@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /ai-projects/
 title: "AI projects"
 author_profile: true
 header:
