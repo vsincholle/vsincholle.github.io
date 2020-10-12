@@ -3,7 +3,7 @@ title: "Healthcare Application"
 date: 2018-11-21
 tags: [AI, deep learning, go to market, app, cloud]
 header:
-  image: "/images/myrumidiag/logo.png"
+  image: ""
 excerpt: "Data Science, Mobile App, Cloud"
 mathjax: "true"
 ---
@@ -14,6 +14,8 @@ mathjax: "true"
 In this project, we designed and developed a mobile application to help dairy cow farmers against acidosis.
 This desease has a huge impact on milking performance for cows and so a huge economic impact for the farmers.
 Old-fashion way is to analyse each dung manually  but it is very long and not so pleasant, so many farmers don't go for it.
+
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/logo.png)
 
 ### my Role
 In order to do that, we built a product team to invent a new solution. 
