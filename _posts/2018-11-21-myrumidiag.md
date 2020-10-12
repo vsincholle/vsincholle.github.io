@@ -1,14 +1,12 @@
 ---
-title: "Deep Learning Project"
+title: "Healthcare Application"
 date: 2018-11-21
-tags: [data science, deep learning, mobile app, cloud]
+tags: [AI, deep learning, go to market, app, cloud]
 header:
   image: "/images/myrumidiag/logo.jpg"
 excerpt: "Data Science, Mobile App, Cloud"
 mathjax: "true"
 ---
-
-# Healthcare Application
 
 ## Acidosis diagnosis for dairy cow farmers
 
