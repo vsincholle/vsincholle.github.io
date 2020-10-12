@@ -1,5 +1,5 @@
 ---
-title: "Healthcare Application"
+title: "Healthcare Application based on Image recognition"
 date: 2018-11-21
 tags: [AI, deep learning, go to market, app, cloud]
 header:
