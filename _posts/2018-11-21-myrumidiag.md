@@ -13,7 +13,7 @@ mathjax: "true"
 ### Goal of the project
 In this project, we designed and developed a mobile application to help dairy cow farmers against acidosis.
 This desease has a huge impact on milking performance for cows and so a huge economic impact for the farmers.
-Old-fashion way is to analyse each dung manually  but it is very long and not so pelasant, so many farmers don't do it.
+Old-fashion way is to analyse each dung manually  but it is very long and not so pleasant, so many farmers don't go for it.
 
 ### my Role
 In order to do that, we built a product team to invent a new solution. 
