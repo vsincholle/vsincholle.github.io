@@ -5,12 +5,11 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior emerging techs leader who designs disruptive concepts and turns these concepts into POCs and MVPs based on AI.
-I work for several domains, such as Automotive, Defence&Space, Agriculture and leads design sessions around following disruptive concepts:
-“The future of mobility”, “The world in 2036”, “Future soldiers”, “The Farm of the Future”,..
+I'm a senior emerging techs leader, experienced in Cloud (AWS, Azure) and AI (Python, Scikit Learn, Keras, Tensorflow, PyTorch). 
 
-All of these concepts led to several MVPs based on AI.
-I excel on Machine Learning, Deep Learning and Computer Vision using Python, Scikit Learn, Keras, Tensorflow, PyTorch.
-All of my projects are deployed on the Cloud, I got some skills on AWS and Azure and I love dev-ops & automation (Agile, CI/CD, Terraform, Ansible, Git).
+I specialize in machine learning/deep learning techniques and how to deploy AI algos into the Cloud following dev-ops (Agile, CI/CD, Terraform, Git). 
+
+I'm used to follow design approach on my projects. Leading design workshops to generate ideas and protoype MVPs based on AI.
+I had experience on Automotive, Space & Defence and Ariculture domains where I explored some disruptive concepts such as “The future of mobility”, “The world in 2036”, “Future soldiers”, “The Farm of the Future”,..
 
 I have an entrepreneurial mindset and I love working on projects together, so feel free to reach out for collaboration! 
