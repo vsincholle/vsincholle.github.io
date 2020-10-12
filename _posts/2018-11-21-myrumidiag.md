@@ -23,7 +23,7 @@ Images will be send to a back-end on the cloud containing both an API and an AI 
 I designed the cloud architecture and developed the deep learning algorithm for the image recognition part.
 The model was trained on several thousands of images which were labelled by experts. 
 
-![Alt text](/images/myrumidiag/app.jpg)
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/app.jpg)
 
 ### Goal of the project
 Our solution is better than human prediction. 
@@ -31,4 +31,4 @@ It was launched as a mobile app, called myRumidiag, on the Apple store and the G
 Our product won a French-Tech award: the first prize on Agreen proto, the 21th November 2018. 
 It is use by several farmers daily. Very proud to help farmers to fight against this desease :)
 
-![Alt text](/images/myrumidiag/prize.jpg)
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/prize.jpg)
