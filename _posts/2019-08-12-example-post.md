@@ -1,7 +1,7 @@
 ---
 title: "Example post"
 date: 2018-09-12
-tags:[data science, messy data]
+tags: [data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science"
