@@ -1,5 +1,5 @@
 ---
-title: "AI - Production scheduling tool for Beverage industry"
+title: "AI - Production scheduling tool for F&B industry"
 date: 2020-05-01
 tags: [data, machine learning, production, cloud]
 header:
@@ -8,7 +8,7 @@ excerpt: "data, machine learning, production, cloud"
 mathjax: "true"
 ---
 
-## Optimizing the production scheduling for a F&B company 
+## Optimizing the production scheduling for a Food & Beverage company 
 
 ### Goal of the project
 In this project, we designed and developed a web application to help production scheduling.
