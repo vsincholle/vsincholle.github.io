@@ -1,10 +1,10 @@
 ---
 title: "AI - Production scheduling tool for F&B industry"
 date: 2020-05-01
-tags: [data, machine learning, production, cloud]
+tags: [Data, Machine Learning, Production, Cloud]
 header:
   image: "/images/scheduling/Food-Beverage-Banner.jpg"
-excerpt: "data, machine learning, production, cloud"
+excerpt: "Data, Machine Learning, Production, Cloud"
 mathjax: "true"
 ---
 
