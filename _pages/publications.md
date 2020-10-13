@@ -7,8 +7,8 @@ header:
 ## Teaching
 <ul>
   <li>Artificial Intelligence and Machine Learning Teacher to the Institut Catholique des Arts et Métiers
-    <br/>The course is for engineering students to provide a broad introduction to artificial intelligence and machine learning and the best practices to use AI/ML in their future jobs.
-    <br/>Topics include Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels), Unsupervised learning (clustering, dimensionality reduction) and Deep Learning.
+    <br/>*The course is for engineering students to provide a broad introduction to artificial intelligence and machine learning and the best practices to use AI/ML in their future jobs.*
+    <br/>*Topics include Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels), Unsupervised learning (clustering, dimensionality reduction) and Deep Learning.*
   </li>
   <li>I was lecturer of Innovation Management to the Ecole Polytechnique and Ecole des Mines de Nantes</li>
 </ul>
