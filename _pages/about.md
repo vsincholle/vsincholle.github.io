@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/golfe.jpg"
+  image: "/images/about.jpg"
 ---
 
 I'm a senior emerging techs leader, experienced in Cloud (AWS, Azure) and AI (Python, Scikit Learn, Keras, Tensorflow, PyTorch). 
