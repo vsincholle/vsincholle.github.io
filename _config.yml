@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Vincent Sincholle"
   avatar           : "/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Innovation & Emerging Tech Leader"
   location         : "Somewhere, France"
   email            :
   uri              :
@@ -261,3 +261,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/  
