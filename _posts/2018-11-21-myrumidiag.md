@@ -1,10 +1,10 @@
 ---
-title: "Healthcare Application based on Image recognition"
+title: "AI - Healthcare mobile application for Animal Nutrition industry"
 date: 2018-11-21
-tags: [AI, deep learning, go to market, app, cloud]
+tags: [AI, Deep Learning, App, Cloud]
 header:
-  image: ""
-excerpt: "Data Science, Mobile App, Cloud"
+  image: "/images/myrumidiag/banner-cows.jpg"
+excerpt: "AI, Deep Learning, App, Cloud"
 mathjax: "true"
 ---
 
