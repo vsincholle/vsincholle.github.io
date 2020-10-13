@@ -2,7 +2,7 @@
 title: "Teaching, Conferences, Publications & Patents"
 permalink: /publications/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/banner-publication.jpg"
 ---
 ## Teaching
 <ul>
