@@ -22,7 +22,7 @@ header:
   <li>Technological Overview : From Data to Artificial Intelligence in Agriculture, Le village by CA, Paris, Sep. 2018</li>
   <li>Industrialisation of machine learning algorithms on the cloud, Centre de Mathématiques Henri Lebesgue,Vannes, Apr. 2018</li>
   <li>How to deploy Design Thinking inside a group, 360 Possibles, Rennes, Oct. 2014</li>
-  <li>Driving innovation strategy inside a corporate researchc enter: feedback from the Thales group, Centre de recherche du groupe Thales, Palaiseau, Dec. 2009</li>
+  <li>Driving innovation strategy inside a corporate research center: feedback from the Thales group, Centre de recherche du groupe Thales, Palaiseau, Dec. 2009</li>
   <li>How to valorise your research activities”, Séminaire Association Nationale de la Recherche et de la Technologie,Palaiseau, 2006</li>
   
 </ul>
