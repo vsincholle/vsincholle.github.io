@@ -16,7 +16,7 @@ In general, an optimized portfolio of assets must generate the highest possible 
 ### My Role
 In order to do that, the concept was to define the profile of an ingredient. Of course this a multi-dimensional profile, and it includes a sensory profile (define by sensory experts), an attributes profile (organic, kosher, halal, etc.) and an economic profile. Based on these profiles, we created an euclidian distance matrix between each product to start clustering. Initial algorithm was written in R by a datascientist. My work was to validate the mathematical model and to optimize it. I coded the model into Python and I used parallelisation techniques. Then I designed some data visualizations and I created all the Cloud infrastructure to deploy the overall model.
 
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/portfolio/tasting-session.png)
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/portfolio/tasting-session.jpg)
 
 ### A tasty tool for the existing portfolio
 Our solution gave nice results and I had the opportunity to test it in real by doing a tasting session, comparing seevral products based on ingredients given by the model. Very appreciated for the amateur cooking I am :)
