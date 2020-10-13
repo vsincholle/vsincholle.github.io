@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Artifical Intelligence Projects"
+  - title: "Key Projects"
     url: /projects/
   - title: "Confs & Publications"
     url: /publications/
