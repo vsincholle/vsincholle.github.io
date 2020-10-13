@@ -4,6 +4,7 @@ permalink: /publications/
 header:
   image: "/images/banner-publication.jpg"
 ---
+
 ## Teaching
 <ul>
   <li>Artificial Intelligence and Machine Learning Teacher to the Institut Catholique des Arts et Métiers
