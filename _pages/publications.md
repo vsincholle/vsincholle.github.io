@@ -1,5 +1,5 @@
 ---
-title: "Confs & Publications"
+title: "Teaching, Conferences, Publications & Patents"
 permalink: /publications/
 header:
   image: "/images/zakim.jpg"
