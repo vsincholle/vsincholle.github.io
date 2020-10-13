@@ -1,10 +1,10 @@
 ---
 title: "AI - Production scheduling tool for Beverage industry"
 date: 2020-05-01
-tags: [machine learning, go to market, cloud]
+tags: [data, machine learning, production, cloud]
 header:
-  image: ""
-excerpt: "Data Science, Mobile App, Cloud"
+  image: "/images/chatbot/Food-Beverage-Banner.jpg"
+excerpt: "data, machine learning, production, cloud"
 mathjax: "true"
 ---
 
