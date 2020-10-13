@@ -1,5 +1,5 @@
 ---
-title: "AI - Portofolio optimization for F&B industry"
+title: "AI - Portfolio optimization for F&B industry"
 date: 2019-01-01
 tags: [AI, Machine Learning, Customer experience, Cloud]
 header:
