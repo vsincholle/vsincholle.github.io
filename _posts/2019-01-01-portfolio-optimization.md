@@ -1,10 +1,10 @@
 ---
-title: "AI-driven order automation"
+title: "AI-Portofolio optimization for a F&B industry"
 date: 2019-01-01
-tags: [AI, deep learning, go to market, app, cloud]
+tags: [AI, Machine Learning, Customer experience, Cloud]
 header:
   image: ""
-excerpt: "Data Science, Mobile App, Cloud"
+excerpt: "AI, Machine Learning, Customer experience, Cloud"
 mathjax: "true"
 ---
 
