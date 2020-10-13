@@ -1,38 +1,22 @@
 ---
-title: "AI-Portofolio optimization for a F&B industry"
+title: "AI - Portofolio optimization for F&B industry"
 date: 2019-01-01
 tags: [AI, Machine Learning, Customer experience, Cloud]
 header:
-  image: ""
+  image: "/images/portfolio/Food-Beverage-Banner.jpg"
 excerpt: "AI, Machine Learning, Customer experience, Cloud"
 mathjax: "true"
 ---
 
-## Acidosis diagnosis for dairy cow farmers
+## Ingredients portfolio rationalization
 
 ### Goal of the project
-In this project, we designed and developed a mobile application to help dairy cow farmers against acidosis.
-This desease has a huge impact on milking performance for cows and so a huge economic impact for the farmers.
-Old-fashion way is to analyse each dung manually  but it is very long and not so pleasant, so many farmers don't go for it.
+In general, an optimized portfolio of assets must generate the highest possible return and at the same time not exceed a specified risk for a given investment horizon. Of course when we talk about food products portfolio, logic is globally the same one but with some differences. In F&B industry, you could manage thousands of ingredients because each of your customer want a unique product with specific attributes such as taste, colour, viscosity, organic ingredients, etc. and of course business is changing and evolving rapidtly because customers needs do. Portfolio optimization for F&B industry is more about portoflio rationalization: how to streamline the existing application portfolio with an explicit goal of improving efficiency, reducing complexity, standardizing the technology platform, eliminating redundant ingredients,etc. The goal of project was to optimize the ingredients portfolio in that way without having any impact for the customer, the company needs to produce products with the same quality and keeping the same attributes (such as taste, colour, organic, etc.)
 
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/app.png)
+### My Role
+In order to do that, the concept was to define the profile of an ingredient. Of course this a multi-dimensional profile, and it includes a sensory profile (define by sensory experts), an attributes profile (organic, kosher, halal, etc.) and an economic profile. Based on these profiles, we created an euclidian distance matrix between each product to start clustering. Initial algorithm was written in R by a datascientist. My work was to validate the mathematical model and to optimize it. I coded the model into Python and I used parallelisation techniques. Then I designed some data visualizations and I created all the Cloud infrastructure to deploy the overall model.
 
-### my Role
-In order to do that, we built a product team to invent a new solution. 
-I was the tech leader for all the project: leading the tech team, designing the global architecture and validating all the technical steps.
-My concept was to use image recognition by shooting dungs with a smartphone camera. 
-Images will be send to a back-end on the cloud containing both an API and an AI model.
-I designed the cloud architecture and developed the deep learning algorithm for the image recognition part.
-The model was trained on several thousands of images which were labelled by experts. 
+![Alt text]({{ site.url }}{{ site.baseurl }}/images/portfolio/tasting-session.png)
 
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/logo.png)
-
-### A product daily used by farmers over the world
-Our solution is better than human prediction. 
-It was launched as a mobile app, called myRumidiag, on the Apple store and the Google playstore
-Our product won a French-Tech award: the first prize on Agreen proto, the 21th November 2018. 
-
-![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/prize.png)
-
-This application is used by several farmers daily on many countries in EMEA and Latin America. 
-Very proud to help worlwide farmers to fight against this desease :)
+### A tasty tool for the existing portfolio
+Our solution gave nice results and I had the opportunity to test it in real by doing a tasting session, comparing seevral products based on ingredients given by the model. Very appreciated for the amateur cooking I am :)
