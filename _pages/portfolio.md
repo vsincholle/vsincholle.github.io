@@ -1,8 +1,6 @@
 ---
-title: Portfolio
-layout: collection
-permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
-classes: wide
+title: "Confs & Publications"
+permalink: /publications/
+header:
+  image: "/images/zakim.jpg"
 ---
