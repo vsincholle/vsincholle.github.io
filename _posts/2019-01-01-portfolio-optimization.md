@@ -19,4 +19,4 @@ In order to do that, the concept was to define the profile of an ingredient. Of 
 ![Alt text]({{ site.url }}{{ site.baseurl }}/images/portfolio/tasting-session.jpg)
 
 ### A tasty tool for the existing portfolio
-Our solution gave nice results and I had the opportunity to test it in real by doing a tasting session, comparing seevral products based on ingredients given by the model. Very appreciated for the amateur cooking I am :)
+Our solution gave nice results and I had the opportunity to test it in real by doing a tasting session, comparing several products based on ingredients given by the model. Very appreciated for the amateur cooking I am :)
