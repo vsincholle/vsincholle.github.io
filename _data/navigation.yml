@@ -3,8 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Artifical Intelligence Projects"
-    url: /data-wrangling/
-  # - title: "About"
+    url: /projects/
+  - title: "Confs & Publications"
+    url: /publications/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
