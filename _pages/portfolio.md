@@ -4,7 +4,7 @@ permalink: /portfolio/
 title: "Portfolio"
 author_profile: true
 header:
-  image: "/images/emerging-technology.png"
+  image: "/images/portfolio.jpg"
 ---
 
 My favourite pieces of work. Includes only professional projects.<br/>
