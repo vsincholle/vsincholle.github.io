@@ -1,10 +1,10 @@
 ---
-title: "AI - Healthcare mobile application for Animal Nutrition industry"
+title: "Healthcare mobile application for Animal Nutrition industry"
 date: 2018-11-21
-tags: [AI, Deep Learning, App, Cloud]
+tags: [Artificial Intelligence]
 header:
   image: "/images/myrumidiag/banner-cows.jpg"
-excerpt: "AI, Deep Learning, App, Cloud"
+excerpt: "Artificial Intelligence"
 mathjax: "true"
 ---
 
@@ -17,7 +17,7 @@ Old-fashion way is to analyse each dung manually  but it is very long and not so
 
 ![Alt text]({{ site.url }}{{ site.baseurl }}/images/myrumidiag/app.png)
 
-### my Role
+### My Role
 In order to do that, we built a product team to invent a new solution. 
 I was the tech leader for all the project: leading the tech team, designing the global architecture and validating all the technical steps.
 My concept was to use image recognition by shooting dungs with a smartphone camera. 
