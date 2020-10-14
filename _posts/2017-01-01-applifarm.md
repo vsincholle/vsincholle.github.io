@@ -3,7 +3,7 @@ title: "How I got the chance to create and launch a data science start-up"
 date: 2020-05-01
 tags: [Data Science]
 header:
-  image: "/images/applifarm/applifarm-header.jpg"
+  image: "/images/applifarm/applifarm-header.jpeg"
 excerpt: "Data Science"
 mathjax: "true"
 ---
