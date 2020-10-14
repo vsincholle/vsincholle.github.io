@@ -1,5 +1,5 @@
 ---
-title: "Healthcare mobile application for Animal Nutrition industry"
+title: "Healthcare mobile application based on deep learning"
 date: 2018-11-21
 tags: [Artificial Intelligence]
 header:
