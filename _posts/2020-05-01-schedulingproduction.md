@@ -1,10 +1,10 @@
 ---
-title: "AI - Production scheduling tool for F&B industry"
+title: "Production scheduling tool for F&B industry"
 date: 2020-05-01
-tags: [Data, Machine Learning, Production, Cloud]
+tags: [Artificial Intelligence]
 header:
   image: "/images/scheduling/Food-Beverage-Banner.jpg"
-excerpt: "Data, Machine Learning, Production, Cloud"
+excerpt: "Artificial Intelligence"
 mathjax: "true"
 ---
 
@@ -22,19 +22,6 @@ In order to do this POC, I went to the plant and organize a design workshop to b
 This tool should be used by different persons inside the company (supply chain planner, production manager, production scheduler, operators, etc.).
 Based on these requirements, I developed the POC in 6 weeks and we had some good results on this line so we decided to continue by building a product team.
 The goal of the product team was to extend the POC to all the production lines and the complexity appears. It takes several months to deliver a full MVP working on the plant. During all the project, I was in charge of the technical team, designing the global architecture, designing the technical strategy and roadmap, validating all the technical steps.
-
-### Technology Stack
-POC:
-<ul>
-  <li>Front-end: Python, Streamlit</li>
-  <li>Back-end: Python, Pandas, Scikit, AWS Cloud</li>
-</ul>
-Final product:
-<ul>
-  <li>Front-end: Angular</li>
-  <li>Back-end: C#, Python, Azure Cloud</li>
-</ul>
-
 
 ### An operationnal tool for production managers and operators
 Today our solution is daily used by operators of the plant and help the to increase OEE. 
