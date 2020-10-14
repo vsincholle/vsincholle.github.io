@@ -87,7 +87,7 @@ author:
   name             : "Vincent Sincholle"
   avatar           : "/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Innovation & Emerging Tech Leader"
-  location         : "Somewhere, France"
+  location         : "France"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
