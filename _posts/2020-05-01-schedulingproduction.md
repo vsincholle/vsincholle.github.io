@@ -1,5 +1,5 @@
 ---
-title: "Production scheduling tool for F&B industry"
+title: "Production scheduling optimization based on machine learning"
 date: 2020-05-01
 tags: [Artificial Intelligence]
 header:
