@@ -28,5 +28,5 @@ I took a seat at the board of the start-up as Scientific advisor.
 
 This experience was one of the best I had the opportunity to live, meaning giving life to an idea coming from my brain and turning it into a business from A to Z.
 It convinces me that entrepreneurial adventures are very important to grow. 
-Since this experience, I try to live each project as this one, meaning be around good energy, connect with people and learn new things.
+Since this experience, I try to live each project as this one, meaning be around good energy, connect with people and end-users, learn new things and try to transform business through emerging technologies.
 
