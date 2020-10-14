@@ -1,10 +1,10 @@
 ---
-title: "AI - Cognitive automation speeds order processing"
+title: "Cognitive automation speeds order processing"
 date: 2019-12-01
-tags: [AI, Computer vision, Deep Learning, Cloud]
+tags: [Artificial Intelligence]
 header:
   image: "/images/order/header-order.png"
-excerpt: "AI, Computer vision, Deep Learning, Cloud"
+excerpt: "Artificial Intelligence"
 mathjax: "true"
 ---
 
