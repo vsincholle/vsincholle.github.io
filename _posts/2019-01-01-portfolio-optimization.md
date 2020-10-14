@@ -1,10 +1,10 @@
 ---
-title: "AI - Portfolio optimization for F&B industry"
+title: "Portfolio optimization for F&B industry"
 date: 2019-01-01
-tags: [AI, Machine Learning, Customer experience, Cloud]
+tags: [Data Science]
 header:
   image: "/images/portfolio/Food-Beverage-Banner.jpg"
-excerpt: "AI, Machine Learning, Customer experience, Cloud"
+excerpt: "Data Science"
 mathjax: "true"
 ---
 
