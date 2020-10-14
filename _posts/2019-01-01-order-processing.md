@@ -1,5 +1,5 @@
 ---
-title: "Cognitive automation speeds order processing"
+title: "Decreasing order processes based on deep learning"
 date: 2019-12-01
 tags: [Artificial Intelligence]
 header:
