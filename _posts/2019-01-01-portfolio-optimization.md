@@ -1,7 +1,7 @@
 ---
 title: "Portfolio optimization for F&B industry"
 date: 2019-01-01
-tags: [Sales & marketing]
+tags: [3 - Sales & marketing]
 header:
   image: "/images/portfolio/Food-Beverage-Banner.jpg"
 excerpt: "Sales & marketing"
