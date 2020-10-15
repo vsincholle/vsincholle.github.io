@@ -3,8 +3,8 @@ layout: archive
 ---
 
 {{ content }}
-
-{% for tag in site.tags | sort %}
+{% assign postsByTag = site.tags | group_by_exp: 'post', 'post.tag | sort %}
+{% for tag in postsByTag %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
