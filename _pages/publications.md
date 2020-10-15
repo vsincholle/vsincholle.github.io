@@ -4,7 +4,7 @@ permalink: /publications/
 header:
   image: "/images/publications.jpg"
 ---
-
+<div align="justify">
 ## Teaching
 <ul>
   <li>Artificial Intelligence and Machine Learning Teacher to the Institut Catholique des Arts et Métiers
@@ -49,3 +49,4 @@ L’expansion Management Review, Jul. 2007</li>
   <li>SINCHOLLE, Vincent, LAUX Sébastien, “Compact spectrometry device and method for making same”, WO2010069836, 2008-12-16</li>
   <li>SINCHOLLE, Vincent, LAUX Sébastien, “Dispositif et Procédé de calibration d’une source lumineuse”, FR2915797, 2007-05-04</li>
 </ul>
+</div>
