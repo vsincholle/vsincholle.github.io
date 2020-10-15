@@ -1,10 +1,10 @@
 ---
-title: "How I got the chance to create and launch a data science start-up"
+title: "How I got the chance to create and launch a data platform start-up"
 date: 2020-05-01
-tags: [Data Science]
+tags: [New services]
 header:
   image: "/images/applifarm/applifarm-header.jpeg"
-excerpt: "Data Science"
+excerpt: "New services"
 mathjax: "true"
 ---
 
