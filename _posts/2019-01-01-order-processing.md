@@ -1,10 +1,10 @@
 ---
 title: "Decreasing order processes based on deep learning"
 date: 2019-12-01
-tags: [Artificial Intelligence]
+tags: [Outbound logistics]
 header:
   image: "/images/order/header-order.png"
-excerpt: "Artificial Intelligence"
+excerpt: "Outbound logistics"
 mathjax: "true"
 ---
 
