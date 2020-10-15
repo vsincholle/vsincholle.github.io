@@ -7,7 +7,7 @@ header:
 <div align="justify">
   <br/>
 I’m a senior emerging techs leader, experienced in designing MVPs around Cloud (AWS, Azure) and AI (Python, Scikit Learn, Keras, Tensorflow, PyTorch). <br/>
-I teach AI at a university for engineering students and I love sharing my knowledge an speaking at events and conferences around AI and emerging technologies. 
+I teach AI at a university for engineering students and I love sharing my knowledge an speaking at events and conferences around AI and emerging technologies. <br/>
 So feel free to reach out for collaboration!<br/>
 
   <h2>My background</h2>
