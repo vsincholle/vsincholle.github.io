@@ -1,7 +1,7 @@
 ---
 title: "Healthcare mobile application based on deep learning"
 date: 2018-11-21
-tags: [New services]
+tags: [4 - New services]
 header:
   image: "/images/myrumidiag/banner-cows.jpg"
 excerpt: "New services"
