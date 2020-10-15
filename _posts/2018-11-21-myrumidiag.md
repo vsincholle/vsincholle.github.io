@@ -1,10 +1,10 @@
 ---
 title: "Healthcare mobile application based on deep learning"
 date: 2018-11-21
-tags: [Artificial Intelligence]
+tags: [New services]
 header:
   image: "/images/myrumidiag/banner-cows.jpg"
-excerpt: "Artificial Intelligence"
+excerpt: "New services"
 mathjax: "true"
 ---
 
