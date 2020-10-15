@@ -5,7 +5,7 @@ header:
   image: "/images/publications.jpg"
 ---
 <div align="justify">
-## Teaching
+  <h2>Teaching</h2>
 <ul>
   <li>Artificial Intelligence and Machine Learning Teacher to the Institut Catholique des Arts et Métiers
     <br/>*The course is for engineering students to provide a broad introduction to artificial intelligence and machine learning and the best practices to use AI/ML in their future jobs.*
@@ -14,7 +14,7 @@ header:
   <li>I was lecturer of Innovation Management to the Ecole Polytechnique and Ecole des Mines de Nantes</li>
 </ul>
 
-## Conferences
+<h2>Conferences</h2>
 <ul>
   <li>How to explore the impacts of emerging technologies on a big company business, May 2019, Paris, Vers l’industrie 4.0</li>
   <li>How to build an emerging tech lab to accelerate digital transformation, Datamaniaques, Rennes, Apr. 2019</li>
@@ -28,7 +28,7 @@ header:
   
 </ul>
 
-## Major publications
+<h2>Major publications</h2>
 <ul>
   <li>SINCHOLLE, Vincent, FLOURENT, Hélène, FRENOD Emmanuel, “An innovative statistical learning tool based on partial differential equations,
 intending livestock data assimilation”, Hal, Jan. 2020 </li>
@@ -40,7 +40,7 @@ L’expansion Management Review, Jul. 2007</li>
     2003</li>
 </ul>
 
-## Patents
+<h2>Patents</h2>
 <ul>
   <li>SINCHOLLE, Vincent, DURAND, William, “Dispositif et procédé pour détecter le réveil d’un animal”, FR3066900, 2017-06-02</li>
   <li>SINCHOLLE, Vincent, ROUALEN, Damien, GOURDIN, Francois-Xavier,“Méthode and device for measuring the size of pellets”, FR3049374,
