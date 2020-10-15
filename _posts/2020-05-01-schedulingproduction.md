@@ -1,7 +1,7 @@
 ---
 title: "Production scheduling optimization based on machine learning"
 date: 2020-05-01
-tags: [Operations]
+tags: [1 - Operations]
 header:
   image: "/images/scheduling/Food-Beverage-Banner.jpg"
 excerpt: "Operations"
