@@ -88,7 +88,7 @@ author:
   avatar           : "/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Innovation & Emerging Tech Leader"
   location         : "France"
-  email            :
+  email            : "vsincholle@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
