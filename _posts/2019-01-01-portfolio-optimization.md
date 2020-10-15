@@ -1,10 +1,10 @@
 ---
 title: "Portfolio optimization for F&B industry"
 date: 2019-01-01
-tags: [Data Science]
+tags: [Sales & marketing]
 header:
   image: "/images/portfolio/Food-Beverage-Banner.jpg"
-excerpt: "Data Science"
+excerpt: "Sales & marketing"
 mathjax: "true"
 ---
 
