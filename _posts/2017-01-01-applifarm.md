@@ -1,7 +1,7 @@
 ---
 title: "How I got the chance to create and launch a data platform start-up"
 date: 2020-05-01
-tags: [New services]
+tags: [4 - New services]
 header:
   image: "/images/applifarm/applifarm-header.jpeg"
 excerpt: "New services"
