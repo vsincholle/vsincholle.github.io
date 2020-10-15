@@ -4,7 +4,7 @@ permalink: /about/
 header:
   image: "/images/about.jpg"
 ---
-
+<div align="justify">
 I’m a senior emerging techs leader, experienced in designing MVPs around Cloud (AWS, Azure) and AI (Python, Scikit Learn, Keras, Tensorflow, PyTorch).<br/>
 
 After being graduated of Ecole polytechnique and obtaining a Ph.D in Innovation Management, I worked 10 years in the Thales group's corporate research center, 
@@ -20,3 +20,4 @@ Some of such concepts are presented in the portfolio part of this site.<br/>
 
 I teach AI at a university for engineering students and I love sharing my knowledge or speaking at conferences. 
 So feel free to reach out for collaboration!
+</div>
