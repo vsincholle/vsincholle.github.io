@@ -1,7 +1,7 @@
 ---
 title: "Decreasing order processes based on deep learning"
 date: 2019-12-01
-tags: [Outbound logistics]
+tags: [2 - Outbound logistics]
 header:
   image: "/images/order/header-order.png"
 excerpt: "Outbound logistics"
