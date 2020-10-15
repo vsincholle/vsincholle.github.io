@@ -1,10 +1,10 @@
 ---
 title: "Production scheduling optimization based on machine learning"
 date: 2020-05-01
-tags: [Artificial Intelligence]
+tags: [Operations]
 header:
   image: "/images/scheduling/Food-Beverage-Banner.jpg"
-excerpt: "Artificial Intelligence"
+excerpt: "Operations"
 mathjax: "true"
 ---
 
