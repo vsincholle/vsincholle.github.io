@@ -13,7 +13,7 @@ So feel free to reach out for collaboration!<br/>
   <h2>My background</h2>
 After being graduated of Ecole polytechnique and obtaining a Ph.D in Innovation Management, I worked 10 years for Thales group's corporate research center, 
 being responsible for developing new areas and leading innovation.<br/>
-Then, I headed the Data & Design Lab, a department dedicated to exploring emerging technologies for Neovia group, particularly in Data Science
+Then I headed the Data & Design Lab, a department dedicated to exploring emerging technologies for Neovia group, particularly in Data Science
 and Artificial Intelligence. During this time, I got the fantastic opportunit to develop an entrepreneurial adventure for Neovia: I funded a data start-up and took the CTO position.<br/>
 Now I work for ADM, a multinational food processing and commodities trading corporation, where I lead the Digital Lab, a department
 dedicated on digital technologies and artificial intelligence.<br/>
